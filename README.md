@@ -1,1 +1,2 @@
-# La-inflaci-n-en-las-inversiones-y-en-los-flujos-netos-de-fondos
+# La-inflación-en-las-inversiones-y-en-los-flujos-netos-de-fondos
+La metodología adoptada para tratar los temas inflacionarios en el estudio histórico, ha sido, tal como se ha visto, la de separar el análisis a valores corrientes sin ajuste, del análisis a moneda constante, comentando en este último caso, preferentemente los sistemas de corrección que la innumerable cantidad de alternativas producto de la inflación. Tratándose ahora de inversiones, se seguirá el mismo camino, pues en todo lo referente a su preparación y cálculo no se hicieron comentarios al respecto. 
